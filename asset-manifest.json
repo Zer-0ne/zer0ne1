@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zer-0ne/zer0ne/static/css/main.c7ef4052.css",
+    "main.js": "/Zer-0ne/zer0ne/static/js/main.a6433282.js",
+    "index.html": "/Zer-0ne/zer0ne/index.html",
+    "main.c7ef4052.css.map": "/Zer-0ne/zer0ne/static/css/main.c7ef4052.css.map",
+    "main.a6433282.js.map": "/Zer-0ne/zer0ne/static/js/main.a6433282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ef4052.css",
+    "static/js/main.a6433282.js"
+  ]
+}
