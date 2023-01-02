@@ -1,13 +1,46 @@
 {
   "files": {
-    "main.css": "/zer0ne/static/css/main.c7ef4052.css",
-    "main.js": "/zer0ne/static/js/main.a6433282.js",
-    "index.html": "/zer0ne/index.html",
-    "main.c7ef4052.css.map": "/zer0ne/static/css/main.c7ef4052.css.map",
-    "main.a6433282.js.map": "/zer0ne/static/js/main.a6433282.js.map"
+    "main.css": "/zer0ne1/static/css/main.ec656a7e.css",
+    "main.js": "/zer0ne1/static/js/main.18441f1a.js",
+    "static/media/clock": "/zer0ne1/static/media/clock.aab6a8220885cf77d399",
+    "static/media/calculator": "/zer0ne1/static/media/calculator.01d7d493413bd6d88504",
+    "static/media/notepad": "/zer0ne1/static/media/notepad.4feed6f60df6bc9bb050",
+    "static/media/avatar.png": "/zer0ne1/static/media/avatar.97135f2b9aedd4777a48.png",
+    "static/media/jsCheet": "/zer0ne1/static/media/jsCheet.474416fc0d91f036f355",
+    "static/media/tic-tac-toe": "/zer0ne1/static/media/tic-tac-toe.b890eda33d1f6b1b769d",
+    "static/media/SoftwareEngeenering.png": "/zer0ne1/static/media/SoftwareEngeenering.c9e0a138862372cd54e3.png",
+    "static/media/fa-solid-900.ttf": "/zer0ne1/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/wordConter": "/zer0ne1/static/media/wordConter.281bf714cebc8420359c",
+    "static/media/PythonCheatSheet.png": "/zer0ne1/static/media/PythonCheatSheet.7face10dfe2f91fa848c.png",
+    "static/media/loginSignup": "/zer0ne1/static/media/loginSignup.2dba60cfb77ca1bb0e5e",
+    "static/media/zDict.png": "/zer0ne1/static/media/zDict.819a211f75c1cd7461f8.png",
+    "static/media/download": "/zer0ne1/static/media/download.e6f332e660746729109f",
+    "static/media/js.png": "/zer0ne1/static/media/js.08f614afa1c414c60587.png",
+    "static/media/fa-brands-400.ttf": "/zer0ne1/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/web-dev-blog.png": "/zer0ne1/static/media/web-dev-blog.dd42e5ca44767a332273.png",
+    "static/media/fa-solid-900.woff2": "/zer0ne1/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/zer0ne1/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/motion": "/zer0ne1/static/media/motion.c543cc9fc0e46b60cdf6",
+    "static/media/Python.jpg": "/zer0ne1/static/media/Python.c574dbd496421d02fbf8.jpg",
+    "static/media/voice": "/zer0ne1/static/media/voice.b1d84df0ca25300260cb",
+    "static/media/html.webp": "/zer0ne1/static/media/html.dfbeee661fb94380e3d5.webp",
+    "static/media/React.png": "/zer0ne1/static/media/React.6e096c5486488bfa51b1.png",
+    "static/media/fa-regular-400.ttf": "/zer0ne1/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/java.png": "/zer0ne1/static/media/java.f3393c67239f71b25283.png",
+    "static/media/analog": "/zer0ne1/static/media/analog.2706e6c2212ccb815c60",
+    "static/media/fa-regular-400.woff2": "/zer0ne1/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/css.png": "/zer0ne1/static/media/css.75e783bcf49a1ccc023e.png",
+    "static/media/node.jpeg": "/zer0ne1/static/media/node.9953b6d1911a2bcf4f32.jpeg",
+    "static/media/text2speech": "/zer0ne1/static/media/text2speech.2d9d246e0c1f3dad05cf",
+    "static/media/fa-v4compatibility.ttf": "/zer0ne1/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/primeChecker": "/zer0ne1/static/media/primeChecker.5243900a0edefbbb912c",
+    "static/media/fa-v4compatibility.woff2": "/zer0ne1/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/zer0ne1/index.html",
+    "main.ec656a7e.css.map": "/zer0ne1/static/css/main.ec656a7e.css.map",
+    "main.18441f1a.js.map": "/zer0ne1/static/js/main.18441f1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7ef4052.css",
-    "static/js/main.a6433282.js"
+    "static/css/main.ec656a7e.css",
+    "static/js/main.18441f1a.js"
   ]
 }
